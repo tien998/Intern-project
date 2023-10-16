@@ -1,3 +1,6 @@
 [submodule "Identity_InternProject"]
 	path = Identity_InternProject
 	url = https://github.com/tien998/Identity_InternProject
+[submodule "TrainingCourse_InternProject"]
+	path = TrainingCourse_InternProject
+	url = https://github.com/tien998/TrainingCourse_InternProject
