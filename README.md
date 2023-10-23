@@ -1,6 +1,6 @@
 Dự án chứa 2 dự án con (Submodule)
 Để lấy dự án về có chứa 2 dự án con, chạy lệnh:
-    `git clone --recursive https://github.com/tien998/Intern-project`
+    `git clone --recurse-submodules https://github.com/tien998/Intern-project`
 
 2 dự án khi lấy về chưa có Migrations, vào mỗi dự án chạy 2 lệnh:
     `dotnet ef migrations add Init` tạo Migration
